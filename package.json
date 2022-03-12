@@ -1,0 +1,22 @@
+{
+  "name": "quick-int",
+  "version": "0.1.0",
+  "description": "Need a random integer?  Generate one quick.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonnycolby/quick-int.git"
+  },
+  "scripts": {
+    "deploy": "yarn publish"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "integer",
+    "random",
+    "generate"
+  ],
+  "author": "Jonathan Colby <hello@jonnycolby.com> (https://jonny.link/)",
+  "license": "MIT"
+}
