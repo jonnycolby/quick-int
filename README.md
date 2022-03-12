@@ -4,6 +4,9 @@
 
 Simply generate a random integer with this utility method.
 
+The generator is inclusive on both ends, so `quick_int(0, 10)` could produce `0`, `100`, or any whole number in between.
+
+
 [![NPM](https://img.shields.io/npm/v/quick-int.svg)](https://www.npmjs.com/package/quick-int)
 
 [NPM Repository](https://npmjs.org/quick-int)
