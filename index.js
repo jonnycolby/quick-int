@@ -3,6 +3,7 @@
 //    Simply generate a random integer.
 //
 //  Usage:
+//  import quick_int from "quick-int";
 //  const my_int_01  =  quick_int({ min: 0, max: 100 });
 //  const my_int_02  =  quick_int(0, 100);
 //  const my_int_03  =  quick_int();

@@ -31,6 +31,8 @@ yarn add quick-int
 ## Examples
 
 ```js
+import quick_int from "quick-int";
+
 const my_int_01 = quick_int({ min: 0, max: 100 });
 
 const my_int_02 = quick_int(0, 100);
