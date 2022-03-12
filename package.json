@@ -1,6 +1,6 @@
 {
   "name": "quick-int",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Need a random integer?  Generate one quick.",
   "main": "index.js",
   "repository": {
